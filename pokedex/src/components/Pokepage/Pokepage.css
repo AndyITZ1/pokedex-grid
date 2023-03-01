@@ -1,0 +1,19 @@
+body{
+    background-image: url("C:/Users/Ex Machina/Desktop/RevatureDemos/Pokemon/pokedex-grid/pokedex/src/background.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position-y:top;
+}
+
+.header{
+    height: 10%;
+    background-color:rgba(89, 126, 248,.3);
+    
+    width:100%;
+    justify-content: center;
+    align-items: center;
+    display:flex;
+    box-shadow: 0rem 0rem 5rem rgb(0, 193, 252);
+}
+
